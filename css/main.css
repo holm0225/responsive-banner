@@ -1,3 +1,8 @@
 html {
   font-family: 'Geogria', sans-serif;
 }
+
+.text {
+  background-color: #495562;
+  color: #fff;
+}
